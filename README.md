@@ -2,15 +2,17 @@
 
  ---
 #### Demo
-<img src="https://github.com/guptasoumya26/Movie-Prediction-Sentiment-Analysis/blob/master/images/Capture.PNG" alt="matrix-1"/>
+<img src="https://github.com/guptasoumya26/Youtube-Video-And-Playlist-Downloader/blob/master/Demo.gif" alt="matrix-1"/>
 
 ---
 #### Tutorial
-Markup : * Install Python
-         * Use any ide of your choice or any text editor
-		 * Place the Playlist/Video URL's in respective files
-		 * Run VideoDownloader.py
-		 * Videos will be saved at the specified run time location
+
+ 1. Use any ide of your choice or any text editor
+ 2. Place the Playlist/Video URL's in respective files
+ 3. Run VideoDownloader.py
+ 4. Videos will be saved at the specified run time location
+
+
 		 
           
  ---
